@@ -1,0 +1,15 @@
+{
+    "botID": "1543739664580481085",
+    "botToken": "YOUR_DISCORD_BOT_TOKEN",
+    "apiURL": "https://api..com.br",
+    "version": "0.0.3",
+    "syncEmojis": false,
+    "saveConfig": false,
+    "startOnBackup": false,
+    "bot": {
+        "token": "YOUR_DISCORD_BOT_TOKEN",
+        "owner": "1426187164844294164",
+        "id": "1543739664580481085",
+        "server": "1543343251799408650"
+    }
+}
